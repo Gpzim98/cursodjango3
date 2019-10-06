@@ -35,10 +35,14 @@ Fazer um commit
 git add .
 git commit -m "First commit"
 git push origin master
+git push -u origin master
 
 Add remote 
 git remote add origin endereco
 git remote add origin https://github.com/Gpzim98/cursoblogpessoal.git
+
+Listar branchs
+git branch -v 
 
 
 https://html5up.net/strata
